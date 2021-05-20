@@ -5,6 +5,7 @@
 - 📫 I'm on linked in: https://www.linkedin.com/in/carlosngranados and insta: https://www.instagram.com/carl.osx
 - 🙌🏼 Looks like I'm a Github repo now? ¯\_(ツ)_/¯
 - 👫 Github wants to be more social now, and I like it. I think more of us could grab a drink together.
+- 🌙 As much as I like dark themes, I'm having a hard time reviewing code with Github's dark theme 😩
 
 <!---
 the-invisible-man/the-invisible-man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
