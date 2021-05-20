@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carlos, family calls me Nicolas. Born in Lima, Peru 🇵🇪. A Belleville, NJ son. Living in Brooklyn. 
+- 👋 Hi, I’m Carlos, family calls me Nicolas. Born in Lima, Peru 🇵🇪. A Belleville, NJ son 🇺🇸. Living in Brooklyn. 
 - 💻 Started my journey with computers at 12 years old. First computer was a Dell Dimension 3000, Pentium 4, Windows XP
 - 👀 I've come to understand why computers are "a bycicle for the mind".
 - 🌱 I've always appreciated how problem solving explans the world around me.
